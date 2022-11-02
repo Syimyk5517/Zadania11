@@ -13,7 +13,6 @@ public class Main {static Scanner scanner =new Scanner(System.in);
        triangle.c = scanner.nextInt();
       triangle.area();
 
-
    }
 
 }
